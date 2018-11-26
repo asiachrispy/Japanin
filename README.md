@@ -24,6 +24,20 @@ research japan
 
 ## MetaLink
 
+## 日本开放参观的企业
+
+基本上所有的大型企业都提供参观，一般需要提前1-3个月提前预约
+
+计划去的大型企业：
+
+丰田汽车公司（TOYOTA MOTOR)  
+日立（HITACHI)  
+软银集团（SoftBank Group)  
+
+朋友的企业：  
+dely  
+lifenet
+
 ## CHANGELOG
 
 20181126 chris new add 
