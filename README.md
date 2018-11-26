@@ -18,6 +18,9 @@ research japan
 [遇见日本 (豆瓣)](https://book.douban.com/subject/30168577/)  
 [和食 (豆瓣)](https://book.douban.com/subject/27087872/)  
 
+### 文学
+[日本现代文学的起源 (豆瓣)](https://book.douban.com/subject/1048364/)
+
 ## Paper
 
 ## Article
