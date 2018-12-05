@@ -21,6 +21,9 @@ research japan
 ### 文学
 [日本现代文学的起源 (豆瓣)](https://book.douban.com/subject/1048364/)
 
+## Data Site
+日本 宏微观数据 https://www.ceicdata.com/zh-hans/country/japan
+
 ## Paper
 
 ## Article
