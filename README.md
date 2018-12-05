@@ -1,6 +1,27 @@
 # japanin
 research japan
 
+## People
+山口百惠 
+高仓健
+黑泽明
+久石让
+
+夏目漱石
+井上靖
+川端康成
+佐藤信夫
+
+稻盛和夫
+大前研一
+野中郁次郎
+
+原研哉
+黑川雅之
+深泽直人
+伊东丰雄
+市川昆
+
 ## Book
 [菊与刀 (豆瓣)](https://book.douban.com/subject/10540815/)  
 [日本新中产阶级 (豆瓣)](https://book.douban.com/subject/26909585/)  
